@@ -278,6 +278,8 @@ body {
 }
 
 .portfolio__art{
+    height: 601px;
+    width: 940px;
     display: grid;
     grid-template-columns: repeat(4, 220px);
     grid-template-rows: repeat(3, 187px);
